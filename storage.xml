@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "storage">
+	<slot number = "1">
+		<pattr name = "jsui[1]" value = "" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "jsui[1]" value = "" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "jsui[1]" value = "" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "jsui[1]" value = "" />
+	</slot>
+	<slot number = "6">
+		<pattr name = "jsui[1]" value = "" />
+	</slot>
+	<slot number = "7">
+		<pattr name = "jsui[1]" value = "" />
+	</slot>
+	<slot number = "8">
+		<pattr name = "jsui[1]" value = "6 1 14 function0 0 1. 0 1 100 0.1 0.105727 0.788235 0 0 0.193833 0.470588 0 0 0.281938 0.823529 0 0 0.378855 0.388235 0 0 0.38326 1 0 0 0.493392 0.458824 0 0 0.497797 0.776471 0 0 0.61674 0.905882 0 0 0.61674 0.529412 0 0 0.678414 0.270588 0 0 0.687225 0.788235 0 0 0.814978 0.811765 0 0 0.823789 0.458824 0 0 0.911894 0.705882 0 0" />
+	</slot>
+	<slot number = "16">
+		<pattr name = "jsui[1]" value = "6 1 14 function0 0 1 0 1 100 0.1 0 0.282353 0 0 0.193833 0.470588 0 0 0.281938 0.823529 0 0 0.378855 0.388235 0 0 0.38326 1 0 0 0.493392 0.458824 0 0 0.497797 0.776471 0 0 0.61674 0.905882 0 0 0.61674 0.529412 0 0 0.678414 0.270588 0 0 0.687225 0.788235 0 0 0.814978 0.811765 0 0 0.823789 0.458824 0 0 0.911894 0.705882 0 0" />
+	</slot>
+</pattrstorage>
+
